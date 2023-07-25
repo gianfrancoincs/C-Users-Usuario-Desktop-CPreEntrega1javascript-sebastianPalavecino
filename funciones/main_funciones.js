@@ -1,7 +1,7 @@
 
 //En este ejemplo, SISTEMA DE PUNTAJE (SCORE) vamos a evaluar diferentes criterios para otorgar un puntaje a la persona que solicita el crédito. Luego, sumaremos los puntajes para obtener el puntaje total.
 
-//Supongamos que los criterios y puntajes son los siguientes:
+//Los criterios y puntajes a considerar son los siguientes:
 
 //1 Ingresos mensuales mayores a $3000 -> 10 puntos.
 //2 Edad entre 25 y 40 años -> 20 puntos.

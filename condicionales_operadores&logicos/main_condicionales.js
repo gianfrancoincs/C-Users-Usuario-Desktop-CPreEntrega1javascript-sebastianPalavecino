@@ -1,3 +1,4 @@
+//A travez del uso de condicionales creamos un sistema basico de riego por goteo, las varaiables simuladas serian de datos externos ej: sensores de temperatura.
 
 // Variables simuladas (pueden obtenerse de sensores o cualquier otra fuente de datos)
 const humedadSuelo = 25; // Porcentaje de humedad del suelo

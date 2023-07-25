@@ -1,3 +1,4 @@
+//En el sisguiente ejemplo creamos un login para usuario con WHILE y SWITCH
 
 let claveCorrecta = "secreto123";
 let intentos = 3;
